@@ -1,0 +1,24 @@
+{
+    "name": "frantzyy-mytodoapp",
+    "version": "1.0.0",
+    "description": "myTodoApp using angularjs",
+    "main": "index.js",
+    "scripts": {
+        "test": "gulp test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/frantzyy/myTodoApp.git"
+    },
+    "keywords": [
+        "frantzyy",
+        "frantz_chris",
+        "angularjs"
+    ],
+    "author": "Chris Frantz <christopher.j.frantz@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/frantzyy/myTodoApp/issues"
+    },
+    "homepage": "http://frantzyy.github.io/myTodoApp"
+}
