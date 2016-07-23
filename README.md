@@ -1,11 +1,11 @@
-myTodoApp
-=========
+# myTodoApp
+
 
 Notes while learning angularjs, bootstrap, sass, webpack, git, and other web development tools
 
-# Git
+## Git
 
-## Keeping mast in sync with gh-pages
+### Keeping master in sync with gh-pages
 git checkout master
 git status
 git commit -m "Committing changes to master"
@@ -20,7 +20,7 @@ git checkout master
 
 [http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/](http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
 
-## Code Academy
+### Code Academy
 
 [Tutorial 1 - Git basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
 
