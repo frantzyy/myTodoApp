@@ -56,9 +56,9 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 6. git checkout master (go back to branch you are merging to hasn't changed)
 7. git pull
 8. git checkout feature1
-9. git merge
+9. git merge master (or whatever branch you are going to)
 10. git add -A
-11 git commit -m
+11. git commit -m
 12. git push
 
 testing out branching
