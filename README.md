@@ -19,3 +19,9 @@ git checkout master
 
 
 [http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/](http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
+
+## Code Academy
+
+[Tutorial 1 - Git basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+[Tutorial 2 - Git pull requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
