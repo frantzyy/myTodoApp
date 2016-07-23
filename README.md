@@ -32,7 +32,7 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 
 [Tutorial 2 - Git pull requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 
-## Typical workflow
+### Typical workflow
 1. git pull
 2. make changes
 3. git add -A (add all)
@@ -46,3 +46,29 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 7. else git push
 
 
+## Branching/merging
+
+1. git branch (displays available branches)
+2. git branch feature1 (creates a new branch)
+3. make your change
+4. git add -A
+5. git commit -m
+6. git checkout master (go back to branch you are merging to hasn't changed)
+7. git pull
+8. git checkout feature1
+9. git merge master (or whatever branch you are going to)
+10. git add -A
+11. git commit -m
+12. git push
+
+testing out branching
+
+
+
+
+
+## Podcasts
+
+[Adventures in Angular](https://devchat.tv/devchattv_show/adventures-in-angular)
+
+[Codeschool 5JS](https://fivejs.codeschool.com/)
