@@ -67,3 +67,21 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 [Adventures in Angular](https://devchat.tv/devchattv_show/adventures-in-angular)
 
 [Codeschool 5JS](https://fivejs.codeschool.com/)
+
+# Git Commit History
+
+[Git Commit History Docs](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+
+* basic
+git log
+
+* pretty one line with hash
+git log --pretty=oneline
+
+* format with user name
+git log --pretty=format:"%h - %an, %ar : %s"
+
+* timeframe
+git log --since=2.weeks
+
+
