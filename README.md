@@ -12,7 +12,20 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 
 ## Git
 
-### Keeping master in sync with gh-pages
+### Learning 
+
+[Git Docs](https://git-scm.com/doc)
+
+[Code Academy](https://www.codecademy.com/learn)
+
+[Code Academy YouTube](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+
+[Tutorial 1 - Git basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
+
+[Tutorial 2 - Git pull requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+
+
+### GitHub - keeping master in sync with gh-pages
 1. git checkout master
 2. git status
 3. git commit -m "Committing changes to master"
@@ -27,15 +40,9 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 
 [Keep gh-pages insync with master](http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
 
-### [Code Academy](https://www.codecademy.com/learn)
-
-[Code Academy YouTube](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-
-[Tutorial 1 - Git basics](https://www.youtube.com/watch?v=0fKg7e37bQE)
-
-[Tutorial 2 - Git pull requests](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 
 ### Typical workflow
+
 1. git pull
 2. make changes
 3. git add -A (add all)
@@ -49,7 +56,7 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 7. else git push
 
 
-## Branching/merging
+### Branching/merging
 
 1. git branch (displays available branches)
 2. git branch feature1 (creates a new branch)
@@ -65,13 +72,7 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 12. git push
 
 
-## Podcasts
-
-[Adventures in Angular](https://devchat.tv/devchattv_show/adventures-in-angular)
-
-[Codeschool 5JS](https://fivejs.codeschool.com/)
-
-# Git Commit History
+### Git Commit History
 
 [Git Commit History Docs](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
 
@@ -87,4 +88,12 @@ git log --pretty=format:"%h - %an, %ar : %s"
 * timeframe
 git log --since=2.weeks
 
+
+
+
+## Podcasts
+
+[Adventures in Angular](https://devchat.tv/devchattv_show/adventures-in-angular)
+
+[Codeschool 5JS](https://fivejs.codeschool.com/)
 
