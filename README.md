@@ -61,11 +61,6 @@ Notes while learning angularjs, bootstrap, sass, webpack, git, and other web dev
 11. git commit -m
 12. git push
 
-testing out branching
-
-
-
-
 
 ## Podcasts
 
