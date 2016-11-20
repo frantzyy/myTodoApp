@@ -1,7 +1,10 @@
 # myTodoApp
 
-
 Notes while learning angularjs, bootstrap, sass, webpack, git, and other web development tools
+
+* [myTodoApp Github Pages](https://frantzyy.github.io/myTodoApp/)
+* [myTodoApp] (https://frantzyy.github.io/myTodoApp/app/app.html#/list)
+
 
 ## Markdown
 [Stackedit editor](https://stackedit.io/editor)
