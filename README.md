@@ -89,6 +89,9 @@ git log --pretty=format:"%h - %an, %ar : %s"
 git log --since=2.weeks
 
 
+### Amend
+
+testing amend
 
 
 ## Podcasts
@@ -96,4 +99,6 @@ git log --since=2.weeks
 [Adventures in Angular](https://devchat.tv/devchattv_show/adventures-in-angular)
 
 [Codeschool 5JS](https://fivejs.codeschool.com/)
+
+
 
